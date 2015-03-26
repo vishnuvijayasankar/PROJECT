@@ -1,0 +1,175 @@
+.whitefont{
+	color: white;
+}
+.blackfont{
+	color: black;
+	
+}
+.grayfont{
+	color: #7f7f7f;
+}
+.bluefont{
+	color:#3b5998;
+	font-size:13px
+}
+.font{
+	font-size:13px;
+}
+.smallfont{
+	font-size:10px;
+	
+}
+.red{
+	color: #FF0000;
+}
+.maroon{
+	color: #A52A2A
+}
+
+.orange{
+	color: #ffa500;
+}
+.bgcolor{
+	background-color:#3b5998;
+}
+.bgcolorcol1{
+	background-color:#F8F8F8;
+}
+.bgwhite{
+	background-color: white;
+}
+.mLeft{margin-left:5px;}
+.mRight{margin-right:5px;}
+
+.mTop5{
+	margin-top:5px;
+} 
+.mBottom5{
+	margin-bottom:5px;
+}
+.buttonStyle > span:hover{
+  color: #3b5998;
+  }
+ 
+ .iconStyle{
+  position:relative;
+  display:inline-block;
+   vertical-align:middle;
+   margin-left:10px;
+   font-size:20px;
+   
+  }
+  .bigFont{
+  position:relative;
+  display:inline-block;
+	text-align: center ; 
+   font-size:25px;
+  }
+ 
+  .mRight20{
+  position:relative;
+  display:inline-block;
+   vertical-align:middle;
+   margin-right:20px;
+   font-size:20px;}
+   .mLeft20{
+   position:relative;
+  display:inline-block;
+   vertical-align:middle;
+   margin-left:20px;
+   font-size:13px}
+   .mLeft10{
+   position:relative;
+  display:inline-block;
+   vertical-align:middle;
+   margin-left:10px;
+   font-size:13px}
+   .mLeft15{
+   position:relative;
+  display:inline-block;
+   vertical-align:middle;
+   margin-left:15px;
+   font-size:13px}
+   .mLeft5{
+   position:relative;
+  display:inline-block;
+   vertical-align:middle;
+   margin-left:5px;
+   font-size:13px
+   }
+   .mLeft75{
+   position:relative;
+  display:inline-block;
+   vertical-align:middle;
+   margin-left:75px;
+   font-size:13px}
+
+.online{
+	color:#008000;
+	font-size:10px
+}
+.imgfloat{
+	float: left;
+}
+.mLeft30{
+margin-left:30px;	
+}
+.mTop45{
+	margin-top: 45px;
+}
+.mTopR10{
+	position:relative;
+	margin-top: 10px;
+}
+.mTop15{
+	margin-top: 15px;
+}
+
+
+.box-content {
+    display: inline-block;
+    vertical-align:middle;
+    width: 100%;
+    height: 35px;
+}
+.box-content3 {
+    display: inline-block;
+    vertical-align:middle;
+    width: 100%;
+    height: 60px;
+}
+.box-content4{
+	display: inline-block;
+    vertical-align:middle;
+    width: 100%;
+    height: 45px;
+}
+.scroll{
+    height:150px;
+    overflow-y:scroll;
+}
+
+.boxbottom {
+    border-bottom: 1px solid #ccc;
+}
+
+
+
+.box-content1 {
+    display: inline-block;
+    vertical-align:middle;
+    width: 100%;
+    height: 100px;
+}
+
+.box-content2 {
+    display: inline-block;
+    vertical-align:middle;
+    horizontal-align:middle;
+    width: 50%;
+    height: 65px;
+    text-align: center ;
+}
+.boxright {
+    border-right: 1px solid #ccc;
+}
